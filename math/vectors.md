@@ -49,7 +49,7 @@ $\hat{i}$）的夹角。
 ### 三维矢量：
 类似的，有
 $\vec{A} = (A_x,A_y,A_z) = A_x\cdot\hat{i} + A_y\cdot\hat{j} + A_z\cdot\hat{k}$, 
-$|\vec{A}| = sqrt{A_x^2 + A_y^2 + A_z^2}$
+$|\vec{A}| = \sqrt{A_x^2 + A_y^2 + A_z^2}$
 
 其中
 $\hat{i}，\hat{j}，\hat{k}$分别为三维直角坐标系x轴、y轴、z轴正方向的基矢，想象右手四指由伸直到弯曲的动作过程，四指转动方向对应矢量
